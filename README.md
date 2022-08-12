@@ -1,11 +1,11 @@
 # React-Native-FoodDelivery
 A basic Food Delivery app that runs on both ios and android
 
-run the app.json file before running the app
-use yarn to install sanity
-sanity helps withe the backend stuff. very usefull
-i did not add the sanity backend
-the entire app is done on expo
+run the app.json file before running the app<p>
+use yarn to install sanity<p>
+sanity helps withe the backend stuff. very usefull<p>
+i did not add the sanity backend<p>
+the entire app is done on expo<p>
 
 ![Capture-front](https://user-images.githubusercontent.com/58827285/184357808-0a788625-aeef-4926-b9f5-128a31e901e6.PNG)
 ![Capture-loading](https://user-images.githubusercontent.com/58827285/184357818-7ac4b2d8-a8a2-4106-89f6-7f560c7bb147.PNG)
