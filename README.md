@@ -13,6 +13,5 @@ the entire app is done on expo<p>
 ![Capture-slack](https://user-images.githubusercontent.com/58827285/184357824-16daf025-9f9e-477c-8b45-b061706aa300.PNG)
 ![Capture-slack2](https://user-images.githubusercontent.com/58827285/184357826-f0f5a85a-4746-4fd4-a193-c9486a1fedbe.PNG)
 ![Capture-cart](https://user-images.githubusercontent.com/58827285/184357832-81a96cc4-1e02-4930-a492-fcf0d49b277a.PNG)
-![Capture-delivery](https://user-images.githubusercontent.com/58827285/184357835-772ec04d-c90f-490c-ae20-c2c0e2523206.PNG)
 
 Everyone has free reign to copy and adjust the app as they plese. You have my premission
